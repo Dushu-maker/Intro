@@ -8,24 +8,8 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and s
 
 - **Programming Languages:** Python, JavaScript, C++, Java
 - **Web Development:** React, Node.js, HTML, CSS
-- **Data Science:** Pandas, NumPy, Matplotlib, TensorFlow
-- **DevOps:** Docker, Kubernetes, GitHub Actions
 - **Cloud Platforms:** AWS, Azure, Google Cloud
 - **Version Control:** Git, GitHub
-
----
-
-## 📚 Projects & Contributions
-
-### 🚀 [Project Name](#)
-- **Description:** A brief overview of what this project does.
-- **Tech Stack:** Mention the technologies used.
-- **Link:** [GitHub Repository](#) | [Live Demo](#)
-
-### 🌟 [Another Project](#)
-- **Description:** Highlight another awesome project here.
-- **Tech Stack:** Mention the technologies used.
-- **Link:** [GitHub Repository](#) | [Live Demo](#)
 
 ---
 
@@ -39,9 +23,8 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and s
 
 ## 📫 How to Reach Me
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@yourhandle](#)
+- **Email:** dhushyanthkumar4466@gmail.com
+- **LinkedIn:** www.linkedin.com/in/dhushyanth-kumar-nelli
 
 ---
 
